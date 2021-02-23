@@ -1,0 +1,2 @@
+# TFYA65-Project
+Projektet Grand Prix som gjordes i kursen Ljudfysik, TFYA65 vid Linköpings Universitet. Grand Prix är ett spel där spelaren styr en bil med hjälp av röstkommandon till höger och vänster i tre körfält utan att krocka med hinder. Hindren skapas i de tre körfälten beroende på vilken frekvens som spelas i enheten. Projektets mål var att applicera de kunskaper som erhållits under kursen för att skapa ett ljudbaserat spel.
